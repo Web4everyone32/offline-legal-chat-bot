@@ -10,3 +10,10 @@ server/storage/
 server/legal_chunks/
 server/indian_law_knowledge.txt
 server/uploads/
+server/legal_finetune.jsonl
+server/legal_chunks/
+server/merge_and_convert.py
+server/local_finetune.py
+server/prepare_dataset.py
+server/split_dataset.py
+server/upload_all.bat
